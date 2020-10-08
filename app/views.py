@@ -8,7 +8,7 @@ from app import app
 
 # The node with which our application interacts, there can be multiple
 # such nodes as well.
-CONNECTED_NODE_ADDRESS = "https://pingpong-node-1.herokuapp.com:8000"
+CONNECTED_NODE_ADDRESS = "https://pingpong-node-1.herokuapp.com"
 
 posts = []
 
